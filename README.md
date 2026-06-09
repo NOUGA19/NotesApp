@@ -1,6 +1,6 @@
 #  NotesApp — Gestionnaire de Notes Personnelles
 
-> Application Android académique · Génie Logiciel · ENSPM Maroua
+> Application Android · Génie Logiciel · ENSPM Maroua
 
 ---
 
